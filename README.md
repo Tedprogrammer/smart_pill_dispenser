@@ -28,6 +28,6 @@ Purpose: to remind elderly with dementia when medication should be taken.
 - TP4056 charger module
 
 ## Prototype
-![Breadboard Setup](images/breadboard_setup.jpg)
-
 ![LCD Test](images/led_test.jpg)
+
+[Assembly Render](CAD/renders/assembly_render.png)
