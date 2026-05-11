@@ -26,3 +26,8 @@ Purpose: to remind elderly with dementia when medication should be taken.
 - Passive buzzer
 - 18650 battery
 - TP4056 charger module
+
+## Prototype
+![Breadboard Setup](images/breadboard_setup.jpg)
+
+![LCD Test](images/led_test.jpg)
