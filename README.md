@@ -30,4 +30,4 @@ Purpose: to remind elderly with dementia when medication should be taken.
 ## Prototype
 ![LCD Test](images/led_test.jpg)
 
-[Assembly Render](CAD/renders/assembly_1.png)
+![CAD Render](CAD/renders/assembly_1.png)
