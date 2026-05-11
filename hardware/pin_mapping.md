@@ -16,5 +16,3 @@
 | Sunday LED | GPIO27 |
 | Buzzer | GPIO32 |
 | Confirm Button | GPIO33 |
-
-Commit message:
