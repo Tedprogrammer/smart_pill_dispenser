@@ -31,3 +31,9 @@ Purpose: to remind elderly with dementia when medication should be taken.
 ![LCD Test](images/led_test.jpg)
 
 ![CAD Render](CAD/renders/assembly_1.png)
+
+## Wiring Diagram
+
+![System Wiring Diagram](images/system_wiring_diagram.png)
+
+The circuit was designed and simulated using Wokwi. The Wokwi project archive is available in the `simulation/` folder.
